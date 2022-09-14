@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @You218
+- 👋 Hi, I’m @Rishabh Mishra
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning DSA and JavaScript 
 - 💞️ I’m looking to collaborate on Web development 
